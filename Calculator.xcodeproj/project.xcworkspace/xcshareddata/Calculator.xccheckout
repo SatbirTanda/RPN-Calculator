@@ -10,6 +10,8 @@
 	<string>Calculator</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
+		<key>3DE76432EE3EE70AC5D2B5943A8DF223C5FB1EE1</key>
+		<string>https://github.com/SatbirTanda/RPN-Calculator.git</string>
 		<key>CE0B17E765C86A16D09E87C2805C220AE5BD97A3</key>
 		<string>bitbucket.org:standaway/calculator-i.git</string>
 	</dict>
@@ -17,17 +19,27 @@
 	<string>Calculator.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>CE0B17E765C86A16D09E87C2805C220AE5BD97A3</key>
+		<key>3DE76432EE3EE70AC5D2B5943A8DF223C5FB1EE1</key>
 		<string>../..</string>
+		<key>CE0B17E765C86A16D09E87C2805C220AE5BD97A3</key>
+		<string>../../../Calculator%20I</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>bitbucket.org:standaway/calculator-i.git</string>
+	<string>https://github.com/SatbirTanda/RPN-Calculator.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>CE0B17E765C86A16D09E87C2805C220AE5BD97A3</string>
+	<string>3DE76432EE3EE70AC5D2B5943A8DF223C5FB1EE1</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>3DE76432EE3EE70AC5D2B5943A8DF223C5FB1EE1</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Calculator-master</string>
+		</dict>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
